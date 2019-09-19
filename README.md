@@ -1,4 +1,4 @@
-# Mooncake
+# MODOC - Mental Organism Designed Only for Classifying
 
 This project aims to classify, based on natural language processing, the curriculum vitae from candidates for job vacancies. This project was, initially, built to the project management II discipline, nonetheless, ended in some kind of commercial product for HR consulting companies. This project is optimised for python 3.6.
 
